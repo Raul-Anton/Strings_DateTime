@@ -88,9 +88,9 @@ ShowDateTimeOffset(DateTime.Now);
 static void DayLightSavings(TimeZoneInfo timeZoneInfo)
 {
     if (timeZoneInfo.SupportsDaylightSavingTime)
-        Console.WriteLine("This timezone has daylight saving time");
+        Console.WriteLine("This timezone does have special rules for daylight saving");
     else
-        Console.WriteLine("This timezone doesn't have daylight saving time");
+        Console.WriteLine("This timezone doesn't have any special rules for daylight saving");
 }
 
 Console.WriteLine();
@@ -111,7 +111,6 @@ foreach (var dayName in myCulture.DateTimeFormat.DayNames)
 
 
 // Optoonal assignment
-//<app></app></app><app><app>”
 Console.WriteLine();
 string input = "<app></app></app><app><app>”";
 

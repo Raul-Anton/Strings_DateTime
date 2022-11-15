@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Amdaris\\CSharp_Strings_Dates_Times\\StringDatesTimes\\StringDatesTimes\\StringDatesTimes.csproj",
+      "projectUniqueName": "E:\\Amdaris\\CSharp_Strings_Dates_Times\\Strings_DateTime\\StringDatesTimes\\StringDatesTimes\\StringDatesTimes.csproj",
       "projectName": "StringDatesTimes",
-      "projectPath": "E:\\Amdaris\\CSharp_Strings_Dates_Times\\StringDatesTimes\\StringDatesTimes\\StringDatesTimes.csproj",
+      "projectPath": "E:\\Amdaris\\CSharp_Strings_Dates_Times\\Strings_DateTime\\StringDatesTimes\\StringDatesTimes\\StringDatesTimes.csproj",
       "packagesPath": "C:\\Users\\Raul\\.nuget\\packages\\",
-      "outputPath": "E:\\Amdaris\\CSharp_Strings_Dates_Times\\StringDatesTimes\\StringDatesTimes\\obj\\",
+      "outputPath": "E:\\Amdaris\\CSharp_Strings_Dates_Times\\Strings_DateTime\\StringDatesTimes\\StringDatesTimes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raul\\AppData\\Roaming\\NuGet\\NuGet.Config",
